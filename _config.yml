@@ -112,14 +112,83 @@ content:
             
             - Created and presented a system architecture diagram of the project which was used to help stakeholders to understand how the application works - which is still being used today.     
 
-  - title: Projects
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - MOT Transformation project
-      - Common Payments Management System
-      - Emergency Heavy Goods Vehicle Service project
-      - Emergency Driving Test Applications Service project  
-
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: MOT Transformation project
+        link: github.com/dvsa
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/dvsa
+            icon: fab fa-github
+            url: github.com/dvsa
+        description: | # this will include new lines to allow paragraphs
+          As a Software Developer in Test on the MOT Transformation Project, I was responsible for ensuring the quality and reliability of newly modernized services 
+          within a microservices and cloud-native architecture. I developed robust automated test suites for APIs and UI components using tools like Selenium, Postman, 
+          and Jest, integrated into CI/CD pipelines via GitHub Actions. I implemented test strategies for performance, 
+          and regression testing, and used tools like JMeter and OWASP ZAP. Working in Agile sprints, I collaborated closely with developers and product owners, 
+          contributing to test coverage, defect prevention
+      - layout: top-middle
+        title: Common Payment Management System (CPMS)
+        # link: github.com/dvsa
+        # # link_text: Project Website
+        # additional_links:
+        #   - title:  github.com/dvsa
+        #     icon: fab fa-github
+        #     url: github.com/dvsa
+        # description: | # this will include new lines to allow paragraphs
+        #   As a Software Developer in Test on the MOT Transformation Project, I was responsible for ensuring the quality and reliability of newly modernized services 
+        #   within a microservices and cloud-native architecture. I developed robust automated test suites for APIs and UI components using tools like Selenium, Postman, 
+        #   and Jest, integrated into CI/CD pipelines via GitHub Actions. I implemented test strategies for performance, 
+        #   and regression testing, and used tools like JMeter and OWASP ZAP. Working in Agile sprints, I collaborated closely with developers and product owners, 
+        #   contributing to test coverage, defect prevention
+      - layout: top-middle
+        title: Roadside Payments (RSP)
+        # link: github.com/dvsa
+        # # link_text: Project Website
+        # additional_links:
+        #   - title:  github.com/dvsa
+        #     icon: fab fa-github
+        #     url: github.com/dvsa
+        # description: | # this will include new lines to allow paragraphs
+        #   As a Software Developer in Test on the MOT Transformation Project, I was responsible for ensuring the quality and reliability of newly modernized services 
+        #   within a microservices and cloud-native architecture. I developed robust automated test suites for APIs and UI components using tools like Selenium, Postman, 
+        #   and Jest, integrated into CI/CD pipelines via GitHub Actions. I implemented test strategies for performance, 
+        #   and regression testing, and used tools like JMeter and OWASP ZAP. Working in Agile sprints, I collaborated closely with developers and product owners, 
+        #   contributing to test coverage, defect prevention
+      - layout: top-middle
+        title: Heavy Vehicle Testing (HVT)
+        link: github.com/dvsa
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/dvsa
+            icon: fab fa-github
+            url: github.com/dvsa
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          As a Software Developer in Test on the DVSA Heavy Vehicle Testing (HVT) Project, 
+          I was responsible for ensuring the quality and stability of digital services supporting heavy vehicle inspections. 
+          I developed and maintained automated test suites using Playwright for end-to-end testing, fully integrated into CI/CD pipelines. 
+          Working closely with Developers, DevOps engineers, and Business Analysts in Agile sprints, I helped improve deployment reliability and 
+          streamline test environments. I implemented comprehensive test strategies covering functional, regression, and accessibility testing, 
+          supported UAT and contributed to enhancing automation efficiency, software quality, and overall release confidence across the project.         - layout: top-middle
+      - layout: top-middle
+        title: Emergency Driving Tests 
+        # link: github.com/dvsa
+        # # link_text: Project Website
+        # additional_links:
+        #   - title:  github.com/dvsa
+        #     icon: fab fa-github
+        #     url: github.com/dvsa
+        # description: | # this will include new lines to allow paragraphs
+        #   As a Software Developer in Test on the MOT Transformation Project, I was responsible for ensuring the quality and reliability of newly modernized services 
+        #   within a microservices and cloud-native architecture. I developed robust automated test suites for APIs and UI components using tools like Selenium, Postman, 
+        #   and Jest, integrated into CI/CD pipelines via GitHub Actions. I implemented test strategies for performance, 
+        #   and regression testing, and used tools like JMeter and OWASP ZAP. Working in Agile sprints, I collaborated closely with developers and product owners, 
+        #   contributing to test coverage, defect prevention
 
   - title: Qualifications
     layout: text
