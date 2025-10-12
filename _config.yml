@@ -1,116 +1,141 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: ibrahimjassat/cv
+favicon: images/profile_picture.jpeg
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Ibrahim Jassat
+title: Senior Test Engineer / Senior Software Developer in Test
+email: jassat.ibrahim@gmail.com
+#website: www.github.com/ibrahimjassat
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+github_username:  IbrahimJassat
+linkedin_username: IbrahimJassat
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_picture.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name is Ibrahim and I'm a Senior Developer in Test. 
+  A Dedicated QA Engineer with a proven 
+  track record in ensuring unparalleled customer satisfaction through meticulous analysis, innovative 
+  test automation strategies, and seamless defect management. Proficient in developing and implementing 
+  robust test automation frameworks and performance testing solutions, optimizing product functionality 
+  while adhering to stringent deadlines.
 content:
-  - title: Projects # Title for the section
+  - title: Key Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - Strategic Testing & Defect Management - Proficient in analyzing user requirements, crafting user scenarios, and adeptly managing defects using Jira, ensuring optimal user satisfaction and product quality.
+          - Advanced Test Automation Expertise - Skilled in leading comprehensive automated test coverage using Java Selenium, REST API, Gatling, and JMeter, enhancing functionality and performance while maintaining high user satisfaction.
+          - Framework Development - Experienced in building Test Automation frameworks from scratch utilizing Playwright, TypeScript, and Java, alongside constructing Performance Testing frameworks in Scala, improving testing efficiency and code reusability.
+          - Agile Collaboration & Process Enhancement - Collaborative Agile practitioner adept at maintaining an Agile focus within multi-disciplinary teams, driving biweekly sprint goals, advising on process improvements, and facilitating standardized testing processes for enhanced functionality.
+          - Proactive Issue Resolution & Release Management - Demonstrated ability in delivering real-time hotfixes, mitigating risks with release candidates, and coordinating fixes to developer environments, ensuring seamless team collaboration and alignment with business objectives.
+          - With a solid foundation in Agile methodologies, a knack for innovative problem-solving, and a commitment to continuous improvement, I am poised to drive excellence in quality assurance, elevating products to new standards of excellence.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Senior Software Developer in Test
+        sub_title: Driver and Vehicle Standard Agency (DVSA), Nottingham, UK
+        caption: November 2023 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+           PENDING 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Test Engineer 
+        sub_title: Driver and Vehicle Standard Agency (DVSA), Nottingham, UK
+        caption: October 2017 - October 2023
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+           - Analysing user requirements to ensure customer and user satisfaction are met through the creation of user scenarios and reporting and managing defects when they arise in Jira.
+           - Leading comprehensive automated test coverage in Java Selenium and REST API.
+           - Testing and implementing new functionality, ensuring high customer and user satisfaction and improving performance bottlenecks - using Gatling and JMeter.
+           - Building Test Automation frameworks from scratch using Playwright and Typescript using languages such as Typescript and Java.
+           - Building Performance Testing frameworks in Scala.
+           - Designing and implementing robust test automation processes across in CI/CD deployment along with sub system integrations.
+           - Delivering hotfixes in real-time after reviewing critical customer issues on demand.
+           - Maintained an Agile focus in collaboration with multi-disciplinary Agile teams in line with biweekly sprint goals.       
+           - Advised on processes & strategies to propose change coverage for improved functionality and standardised testing processes.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: centre
+        description: | # this will include new lines to allow paragraphs
+            Key Achievements
+            
+            - Local Recognition Award from the Principal Developer in 2023 in recognition for Operational Excellence for identifying irregularities and potential cyber security issue on Roadside Payment Application.
+            
+            - Local Recognition Award from the Head of Delivery Management in 2022 in recognition for an Achievement & Delivery of outstanding & successful delivery of Delivery of AWS Cognito authentication service for the MOT Application.
+            
+            - Local Recognition Award from the Head of Delivery Management in 2022 in recognition for an Achievement & Delivery of outstanding & successful delivery of MOT History. 
+            
+            - Local Recognition Award from the Director of Strategy, Policy and Digital in 2020.
+            
+            - Local Recognition Award from the Director of Digital Services and Technology in 2019.
+            
+            - Written an article in the annual review 2018/2019 at the DVSA.
+            
+            - Part of the team which won the UK Civil Servant award for Digital project of the year 2018. 
+            
+            - Successfully developed an automation pack showcasing a positive impact on cost & time.
+            
+            - Brilliant Civil service award for improved outcomes for Emergency Driving Test Application Service Team.     
+
+  - layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Digital Service Graduate - Tech
+        sub_title: Driver and Vehicle Standard Agency (DVSA), Nottingham, UK
+        caption: January 2017 - October 2017
+        description: | # this will include new lines to allow paragraphs
+            - Illustrated the application architecture to stakeholders and other technical communities in a comprehendible manner.
+            - Investigated daily various solutions for new functionality which was being delivered.
+            - Ensuring features and functionality was of a high standard for product owners.
+            - Confidently improvised testing techniques to ensure efficient and effective testing was carried out, whilst remaining calm and working to strict deadlines.    
+            - Presenting solutions with an agile mindset to test and change coverage for new and current feature/functionality.         
+            - Developing code at high coding standards to improve reusability of functions for wider efficiency.          
+            - Co-ordinated fixes to developer environments to contribute to the wider team and meet business objectives.         
+            - Actively decreased the risk of issues with release candidates by collaborating and working to a high standard across teams.
+
+      - layout: centre
+        description: | # this will include new lines to allow paragraphs
+            Key Achievements
+            
+            - Created and presented a system architecture diagram of the project which was used to help stakeholders to understand how the application works - which is still being used today.     
+
+  - title: Projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - MOT Transformation project
+      - Common Payments Management System
+      - Emergency Heavy Goods Vehicle Service project
+      - Emergency Driving Test Applications Service project  
+
+
+  - title: Qualifications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - ISTQB Certified Tester Foundation Level 2018
+      - MSc Computing, De Montfort University, UK 
+      - BSc Computer Science (Hons), De Montfort University, UK    
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Football
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Formula 1
+      - Lego
 
 # Footer
 footer_show_references: true
