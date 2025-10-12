@@ -68,28 +68,10 @@ content:
            - Maintained an Agile focus in collaboration with multi-disciplinary Agile teams in line with biweekly sprint goals.       
            - Advised on processes & strategies to propose change coverage for improved functionality and standardised testing processes.
 
-      - layout: centre
-        description: | # this will include new lines to allow paragraphs
-            Key Achievements
+      # - layout: centre
+      #   description: | # this will include new lines to allow paragraphs
+      #       Key Achievements
             
-            - Local Recognition Award from the Principal Developer in 2023 in recognition for Operational Excellence for identifying irregularities and potential cyber security issue on Roadside Payment Application.
-            
-            - Local Recognition Award from the Head of Delivery Management in 2022 in recognition for an Achievement & Delivery of outstanding & successful delivery of Delivery of AWS Cognito authentication service for the MOT Application.
-            
-            - Local Recognition Award from the Head of Delivery Management in 2022 in recognition for an Achievement & Delivery of outstanding & successful delivery of MOT History. 
-            
-            - Local Recognition Award from the Director of Strategy, Policy and Digital in 2020.
-            
-            - Local Recognition Award from the Director of Digital Services and Technology in 2019.
-            
-            - Written an article in the annual review 2018/2019 at the DVSA.
-            
-            - Part of the team which won the UK Civil Servant award for Digital project of the year 2018. 
-            
-            - Successfully developed an automation pack showcasing a positive impact on cost & time.
-            
-            - Brilliant Civil service award for improved outcomes for Emergency Driving Test Application Service Team.     
-
   - layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -106,12 +88,10 @@ content:
             - Co-ordinated fixes to developer environments to contribute to the wider team and meet business objectives.         
             - Actively decreased the risk of issues with release candidates by collaborating and working to a high standard across teams.
 
-      - layout: centre
-        description: | # this will include new lines to allow paragraphs
-            Key Achievements
+      # - layout: centre
+      #   description: | # this will include new lines to allow paragraphs
+      #       Key Achievements
             
-            - Created and presented a system architecture diagram of the project which was used to help stakeholders to understand how the application works - which is still being used today.     
-
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
