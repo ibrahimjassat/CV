@@ -95,10 +95,11 @@ content:
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - MOT Transformation project
-      - Common Payments Management System
-      - Emergency Heavy Goods Vehicle Service project
-      - Emergency Driving Test Applications Service project  
+      - Common Payments Management System 
+      - MOT Transformation
+      - Roadside Payment
+      - Emergency Heavy Goods Vehicle Service
+      - Emergency Driving Test Applications Service  
 
 
   - title: Qualifications
