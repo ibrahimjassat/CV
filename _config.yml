@@ -22,12 +22,12 @@ linkedin_username: IbrahimJassat
 # about_title: About Me
 about_profile_image: images/profile_picture.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ibrahim and I'm a Senior Developer in Test. 
-  A Dedicated QA Engineer with a proven 
-  track record in ensuring unparalleled customer satisfaction through meticulous analysis, innovative 
-  test automation strategies, and seamless defect management. Proficient in developing and implementing 
-  robust test automation frameworks and performance testing solutions, optimizing product functionality 
-  while adhering to stringent deadlines.
+ Hi, my name is Ibrahim, and I'm a Senior Developer in Test.
+ A Dedicated QA Engineer with a proven 
+ track record in ensuring unparalleled customer satisfaction through meticulous analysis, innovative
+ test automation strategies, and seamless defect management. Proficient in developing and implementing
+ robust test automation frameworks and performance testing solutions, optimising product functionality
+ while adhering to stringent deadlines.
 content:
   - title: Key Skill # Title for the section
     layout: list # Type of content section (list/text)
